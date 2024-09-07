@@ -1,0 +1,1 @@
+Olá nesse projeto é simulado um aplicativo de quizz com tema principal o paradigma imperativo, foi utilizado HTML, CSS, TyperScript e Angular.
